@@ -8,9 +8,10 @@
 * Results would be stored in log.txt
  
  
-# Thanks next resources for great articles:
+# Thanks for great articles:
 - [Real Python](https://realpython.com/working-with-files-in-python/)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/os-walk-python/)
 - [Programiz](https://www.programiz.com/python-programming/datetime/strftime)
 - [W3 Schoolls](https://www.w3schools.com/)
+- Other resources that I forgot to add to bookmarks
   
